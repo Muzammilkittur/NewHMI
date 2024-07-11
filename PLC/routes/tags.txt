@@ -1,0 +1,440 @@
+EM02_Alarms.Gearing_Not_Working 			| Gearing is Not Working		| EM02_Alarms.Equipment_Identifier	
+EM02_Alarms.Lift_Motor1_Fault 				| Lift Motor1 Fault 			| EM02_Alarms.Equipment_Identifier
+EM02_Alarms.Lift_Motor2_Fault 				| Lift Motor1 Fault 			| EM02_Alarms.Equipment_Identifier	
+EM02_Alarms.Lift_Motor1_Homing_Not_Done 		| Lift Motor_1 Homing_Not_Done 		| EM02_Alarms.Equipment_Identifier	
+EM02_Alarms.Lift_Motor2_Homing_Not_Done			| Lift Motor_1 Homing_Not_Done 		| EM02_Alarms.Equipment_Identifier
+EM02_Alarms.Lift_Motor1_Servo_ON_Fault 			| Lift 1 Motor 1_Servo_ON_Fault 	| EM02_Alarms.Equipment_Identifier
+EM02_Alarms.Lift_Motor2_Servo_ON_Fault 			| Lift 1 Motor 2_Servo_ON_Fault 	| EM02_Alarms.Equipment_Identifier
+EM02_Alarms.Lift_Move_FB_Error 				| Lift_Move_FB_Error 			| EM02_Alarms.Equipment_Identifier 	| EM02_Alarms.Lift_Move_FB_ErrorCode
+EM02_Alarms.Lift_Moved_Before_Bot_Reach_Dest	| Lift Moved Before BOT Reached Destination 	| EM02_Alarms.Equipment_Identifier 
+EM02_Alarms.Indexer_Moved_Before_Bot_Reach_Dest	| Indexer Moved Before BOT Reached Destination	| EM02_Alarms.Equipment_Identifier 
+EM02_Alarms.Lift_Sequence_Locked			| Lift Sequence Locked			| EM02_Alarms.Equipment_Identifier
+EM02_Alarms.Indexer_Sequence_Locked			| Indexer Sequence Locked		| EM02_Alarms.Equipment_Identifier
+EM02_Alarms.Indexer_Fault				| Indexer_Fault				| EM02_Alarms.Equipment_Identifier
+EM02_Alarms.Indexer_Homing_Not_Done 			| Indexer_Homing_Not_Done 		| EM02_Alarms.Equipment_Identifier
+EM02_Alarms.Indexer_Servo_ON_Fault 			| Indexer_Servo_ON_Fault 		| EM02_Alarms.Equipment_Identifier	
+EM02_Alarms.Link_Unlink_Sequence_Locked			| Link Unlink Sequence Locked		| EM02_Alarms.Equipment_Identifier
+EM02_Alarms.Link_FB_Eror				| Link_FB_Eror				| EM02_Alarms.Equipment_Identifier	|EM02_Alarms.Link_FB_Error_Code
+EM02_Alarms.Critical_Error				| Critical_Error			| EM02_Alarms.Equipment_Identifier
+EM02_Alarms.Warning					| Warning				| EM02_Alarms.Equipment_Identifier
+
+
+
+EM03_Alarms.Gearing_Not_Working 			| Gearing is Not Working		| EM03_Alarms.Equipment_Identifier	
+EM03_Alarms.Lift_Motor1_Fault 				| Lift Motor1 Fault 			| EM03_Alarms.Equipment_Identifier
+EM03_Alarms.Lift_Motor2_Fault 				| Lift Motor1 Fault 			| EM03_Alarms.Equipment_Identifier	
+EM03_Alarms.Lift_Motor1_Homing_Not_Done 		| Lift Motor_1 Homing_Not_Done 		| EM03_Alarms.Equipment_Identifier	
+EM03_Alarms.Lift_Motor2_Homing_Not_Done			| Lift Motor_1 Homing_Not_Done 		| EM03_Alarms.Equipment_Identifier
+EM03_Alarms.Lift_Motor1_Servo_ON_Fault 			| Lift 1 Motor 1_Servo_ON_Fault 	| EM03_Alarms.Equipment_Identifier
+EM03_Alarms.Lift_Motor2_Servo_ON_Fault 			| Lift 1 Motor 2_Servo_ON_Fault 	| EM03_Alarms.Equipment_Identifier
+EM03_Alarms.Lift_Move_FB_Error 				| Lift_Move_FB_Error 			| EM03_Alarms.Equipment_Identifier 	| EM03_Alarms.Lift_Move_FB_ErrorCode
+EM03_Alarms.Lift_Moved_Before_Bot_Reach_Dest	| Lift Moved Before BOT Reached Destination 	| EM03_Alarms.Equipment_Identifier 
+EM03_Alarms.Indexer_Moved_Before_Bot_Reach_Dest	| Indexer Moved Before BOT Reached Destination	| EM03_Alarms.Equipment_Identifier 
+EM03_Alarms.Lift_Sequence_Locked			| Lift Sequence Locked			| EM03_Alarms.Equipment_Identifier
+EM03_Alarms.Indexer_Sequence_Locked			| Indexer Sequence Locked		| EM03_Alarms.Equipment_Identifier
+EM03_Alarms.Indexer_Fault				| Indexer_Fault				| EM03_Alarms.Equipment_Identifier
+EM03_Alarms.Indexer_Homing_Not_Done 			| Indexer_Homing_Not_Done 		| EM03_Alarms.Equipment_Identifier
+EM03_Alarms.Indexer_Servo_ON_Fault 			| Indexer_Servo_ON_Fault 		| EM03_Alarms.Equipment_Identifier	
+EM03_Alarms.Link_Unlink_Sequence_Locked			| Link Unlink Sequence Locked		| EM03_Alarms.Equipment_Identifier
+EM03_Alarms.Link_FB_Eror				| Link_FB_Eror				| EM03_Alarms.Equipment_Identifier	|EM03_Alarms.Link_FB_Error_Code
+EM03_Alarms.Critical_Error				| Critical_Error			| EM03_Alarms.Equipment_Identifier
+EM03_Alarms.Warning					| Warning				| EM03_Alarms.Equipment_Identifier
+
+
+
+EM10_Bot_Alarm.X_axis.Position_limit 		   	| X-Axis Position Limit			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.CCW_limit 			| X-Axis CCW limit 			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.CW_limit				| X-Axis CCW limit 			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.Over_temp				| X-Axis Over Temperature		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.Excess_Regen			| X-Axis Excess Regen			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.Over_voltage			| X-Axis Over Voltage			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.Under_voltage			| X-Axis Under Voltage			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.Over_current			| X-Axis Over Current			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.Open_motor_windings		| X-Axis Open Motor Windings		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.Bad_Encoder			| X-Axis Bad Encoder			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.Comm_err				| X-Axis Comm Error			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.Bad_Flash				| X-Axis Bad Flash			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.No_Move				| X-Axis No Move			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.Blank_Q_Segment			| X-Axis Blank Q Segment		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.General_Fault			| X-Axis General Fault			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.Position_limit 		   	| Y_axis-1 Position Limit		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.CCW_limit 			| Y_axis-1 CCW limit 			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.CW_limit			| Y_axis-1 CCW limit 			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.Over_temp			| Y_axis-1 Over Temperature		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.Excess_Regen			| Y_axis-1 Excess Regen			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.Over_voltage			| Y_axis-1 Over Voltage			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.Under_voltage			| Y_axis-1 Under Voltage		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.Over_current			| Y_axis-1 Over Current			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.Open_motor_windings		| Y_axis-1 Open Motor Windings		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.Bad_Encoder			| Y_axis-1 Bad Encoder			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.Comm_err			| Y_axis-1 Comm Error			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.Bad_Flash			| Y_axis-1 Bad Flash			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.No_Move				| Y_axis-1 No Move			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.Blank_Q_Segment			| Y_axis-1 Blank Q Segment		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-1.General_Fault			| Y_axis-1 General Fault		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.Position_limit 		   	| Y_axis-2 Position Limit		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.CCW_limit 			| Y_axis-2 CCW limit 			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.CW_limit			| Y_axis-2 CCW limit 			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.Over_temp			| Y_axis-2 Over Temperature		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.Excess_Regen			| Y_axis-2 Excess Regen			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.Over_voltage			| Y_axis-2 Over Voltage			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.Under_voltage			| Y_axis-2 Under Voltage		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.Over_current			| Y_axis-2 Over Current			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.Open_motor_windings		| Y_axis-2 Open Motor Windings		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.Bad_Encoder			| Y_axis-2 Bad Encoder			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.Comm_err			| Y_axis-2 Comm Error			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.Bad_Flash			| Y_axis-2 Bad Flash			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.No_Move				| Y_axis-2 No Move			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.Blank_Q_Segment			| Y_axis-2 Blank Q Segment		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis-2.General_Fault			| Y_axis-2 General Fault		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Position_limit 		   	| Z-Axis Position Limit			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.CCW_limit 			| Z-Axis CCW limit 			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.CW_limit				| Z-Axis CCW limit 			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Over_temp				| Z-Axis Over Temperature		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Excess_Regen			| Z-Axis Excess Regen			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Over_voltage			| Z-Axis Over Voltage			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Under_voltage			| Z-Axis Under Voltage			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Over_current			| Z-Axis Over Current			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Open_motor_windings		| Z-Axis Open Motor Windings		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Bad_Encoder			| Z-Axis Bad Encoder			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Comm_err				| Z-Axis Comm Error			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Bad_Flash				| Z-Axis Bad Flash			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.No_Move				| Z-Axis No Move			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Blank_Q_Segment			| Z-Axis Blank Q Segment		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.General_Fault			| Z-Axis General Fault			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Auto_Sequence_fault			| Auto Sequence Fault			| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.X_axis.Belt_Slip				| X-Axis Belt Slip Fault		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis_1.Belt_Slip			| Y-Axis-1 Belt Slip Fault		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Y_axis_2.Belt_Slip			| Y-Axis-2 Belt Slip Fault		| EM10_Alarms.Equipment_Identifier
+EM10_Bot_Alarm.Z_axis.Belt_Slip				| Z-Axis Belt Slip Fault		| EM10_Alarms.Equipment_Identifier
+
+
+EM11_Bot_Alarm.X_axis.Position_limit 		   	| X-Axis Position Limit			| EM11_AlarmsEquipment_Identifier
+EM11_Bot_Alarm.X_axis.CCW_limit 			| X-Axis CCW limit 			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.CW_limit				| X-Axis CCW limit 			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.Over_temp				| X-Axis Over Temperature		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.Excess_Regen			| X-Axis Excess Regen			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.Over_voltage			| X-Axis Over Voltage			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.Under_voltage			| X-Axis Under Voltage			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.Over_current			| X-Axis Over Current			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.Open_motor_windings		| X-Axis Open Motor Windings		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.Bad_Encoder			| X-Axis Bad Encoder			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.Comm_err				| X-Axis Comm Error			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.Bad_Flash				| X-Axis Bad Flash			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.No_Move				| X-Axis No Move			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.Blank_Q_Segment			| X-Axis Blank Q Segment		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.General_Fault			| X-Axis General Fault			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.Position_limit 		   	| Y_axis-1 Position Limit		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.CCW_limit 			| Y_axis-1 CCW limit 			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.CW_limit			| Y_axis-1 CCW limit 			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.Over_temp			| Y_axis-1 Over Temperature		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.Excess_Regen			| Y_axis-1 Excess Regen			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.Over_voltage			| Y_axis-1 Over Voltage			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.Under_voltage			| Y_axis-1 Under Voltage		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.Over_current			| Y_axis-1 Over Current			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.Open_motor_windings		| Y_axis-1 Open Motor Windings		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.Bad_Encoder			| Y_axis-1 Bad Encoder			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.Comm_err			| Y_axis-1 Comm Error			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.Bad_Flash			| Y_axis-1 Bad Flash			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.No_Move				| Y_axis-1 No Move			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.Blank_Q_Segment			| Y_axis-1 Blank Q Segment		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-1.General_Fault			| Y_axis-1 General Fault		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.Position_limit 		   	| Y_axis-2 Position Limit		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.CCW_limit 			| Y_axis-2 CCW limit 			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.CW_limit			| Y_axis-2 CCW limit 			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.Over_temp			| Y_axis-2 Over Temperature		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.Excess_Regen			| Y_axis-2 Excess Regen			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.Over_voltage			| Y_axis-2 Over Voltage			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.Under_voltage			| Y_axis-2 Under Voltage		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.Over_current			| Y_axis-2 Over Current			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.Open_motor_windings		| Y_axis-2 Open Motor Windings		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.Bad_Encoder			| Y_axis-2 Bad Encoder			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.Comm_err			| Y_axis-2 Comm Error			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.Bad_Flash			| Y_axis-2 Bad Flash			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.No_Move				| Y_axis-2 No Move			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.Blank_Q_Segment			| Y_axis-2 Blank Q Segment		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis-2.General_Fault			| Y_axis-2 General Fault		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Position_limit 		   	| Z-Axis Position Limit			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.CCW_limit 			| Z-Axis CCW limit 			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.CW_limit				| Z-Axis CCW limit 			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Over_temp				| Z-Axis Over Temperature		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Excess_Regen			| Z-Axis Excess Regen			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Over_voltage			| Z-Axis Over Voltage			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Under_voltage			| Z-Axis Under Voltage			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Over_current			| Z-Axis Over Current			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Open_motor_windings		| Z-Axis Open Motor Windings		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Bad_Encoder			| Z-Axis Bad Encoder			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Comm_err				| Z-Axis Comm Error			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Bad_Flash				| Z-Axis Bad Flash			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.No_Move				| Z-Axis No Move			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Blank_Q_Segment			| Z-Axis Blank Q Segment		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.General_Fault			| Z-Axis General Fault			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Auto_Sequence_fault			| Auto Sequence Fault			| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.X_axis.Belt_Slip				| X-Axis Belt Slip Fault		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis_1.Belt_Slip			| Y-Axis-1 Belt Slip Fault		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Y_axis_2.Belt_Slip			| Y-Axis-2 Belt Slip Fault		| EM11_Alarms.Equipment_Identifier
+EM11_Bot_Alarm.Z_axis.Belt_Slip				| Z-Axis Belt Slip Fault		| EM11_Alarms.Equipment_Identifier
+
+
+
+EM01_Alarms.HLC_Initializing				| HLC Initializing
+EM01_Alarms.HLC_Degraded				| HLC Degraded
+EM01_Alarms.HLC_Alarm					| HLC Alarm Code			| EM01_Alarms.HLC_Alarm_Code
+EM01_Alarms.HLC_Configuration_Error			| HLC Configuration Error Code 		| EM01_Alarms.HLC_Configuration_Error_Code
+EM01_Alarms.Node_Controller_Disconnected[1]		| Node Controller-1 Disconnected
+EM01_Alarms.Node_Controller_Disconnected[2]		| Node Controller-2 Disconnected
+EM01_Alarms.Node_Controller_Disconnected[3]		| Node Controller-3 Disconnected
+EM01_Alarms.Node_Controller_Disconnected[4]		| Node Controller-4 Disconnected
+EM01_Alarms.Node_Controller_Disconnected[5]		| Node Controller-5 Disconnected
+EM01_Alarms.Node_Controller_Disconnected[6]		| Node Controller-6 Disconnected
+EM01_Alarms.Node_Controller_Disconnected[7]		| Node Controller-7 Disconnected
+EM01_Alarms.Node_Controller_Disconnected[8]		| Node Controller-8 Disconnected
+EM01_Alarms.Node_Controller_Disconnected[9]		| Node Controller-9 Disconnected
+EM01_Alarms.Node_Controller_Disconnected[10]		| Node Controller-10 Disconnected
+EM01_Alarms.Node_Controller_Initializing[1]		| Node Controller-1 Initializing
+EM01_Alarms.Node_Controller_Initializing[2]		| Node Controller-2 Initializing
+EM01_Alarms.Node_Controller_Initializing[3]		| Node Controller-3 Initializing
+EM01_Alarms.Node_Controller_Initializing[4]		| Node Controller-4 Initializing
+EM01_Alarms.Node_Controller_Initializing[5]		| Node Controller-5 Initializing
+EM01_Alarms.Node_Controller_Initializing[6]		| Node Controller-6 Initializing
+EM01_Alarms.Node_Controller_Initializing[7]		| Node Controller-7 Initializing
+EM01_Alarms.Node_Controller_Initializing[8]		| Node Controller-8 Initializing
+EM01_Alarms.Node_Controller_Initializing[9]		| Node Controller-9 Initializing
+EM01_Alarms.Node_Controller_Initializing[10]		| Node Controller-10 Initializing
+EM01_Alarms.Command.Clear_Error				| 					| EM01_Alarms.Command.Clear_Error_Code			
+EM01_Alarms.Command.Path_Reset_Error			|					| EM01_Alarms.Command.Path_Reset_Error_Code
+EM01_Alarms.Command.Path_Startup_Error			|					| EM01_Alarms.Command.Path_Startup_Error_Code
+EM01_Alarms.Command.Move_Error_Bot[1]			| Bot-1 Error Code: 	| EM01_Alarms.Command.Move_Error_Code_Bot[1]	| EM01_Alarms.Command.Move_ExtendedError_Code_Bot[1]
+EM01_Alarms.Command.Move_Error_Bot[2]			| Bot-2 Error Code: 	| EM01_Alarms.Command.Move_Error_Code_Bot[2]	| EM01_Alarms.Command.Move_ExtendedError_Code_Bot[2] 
+EM01_Alarms.Command.Move_Error_Bot[3]			| Bot-3 Error Code: 	| EM01_Alarms.Command.Move_Error_Code_Bot[3]	| EM01_Alarms.Command.Move_ExtendedError_Code_Bot[3] 
+EM01_Alarms.Command.Move_Error_Bot[4]			| Bot-4 Error Code: 	| EM01_Alarms.Command.Move_Error_Code_Bot[4]	| EM01_Alarms.Command.Move_ExtendedError_Code_Bot[4] 
+EM01_Alarms.Command.Move_Error_Bot[5]			| Bot-5 Error Code: 	| EM01_Alarms.Command.Move_Error_Code_Bot[5]	| EM01_Alarms.Command.Move_ExtendedError_Code_Bot[5] 
+EM01_Alarms.Command.Move_Error_Bot[6]			| Bot-6 Error Code: 	| EM01_Alarms.Command.Move_Error_Code_Bot[6]	| EM01_Alarms.Command.Move_ExtendedError_Code_Bot[6] 
+EM01_Alarms.Command.Move_Error_Bot[7]			| Bot-7 Error Code: 	| EM01_Alarms.Command.Move_Error_Code_Bot[7]	| EM01_Alarms.Command.Move_ExtendedError_Code_Bot[7] 
+EM01_Alarms.Command.Move_Error_Bot[8]			| Bot-8 Error Code: 	| EM01_Alarms.Command.Move_Error_Code_Bot[8]	| EM01_Alarms.Command.Move_ExtendedError_Code_Bot[8] 
+EM01_Alarms.Command.Move_Error_Bot[9]			| Bot-9 Error Code: 	| EM01_Alarms.Command.Move_Error_Code_Bot[9]	| EM01_Alarms.Command.Move_ExtendedError_Code_Bot[9] 
+EM01_Alarms.Command.Move_Error_Bot[10]			| Bot-10 Error Code: 	| EM01_Alarms.Command.Move_Error_Code_Bot[10]	| EM01_Alarms.Command.Move_ExtendedError_Code_Bot[10] 
+EM01_Alarms.Path_UpStream_Link_Down[1]			| Path-1 UpStream Link Down
+EM01_Alarms.Path_UpStream_Link_Down[2]			| Path-2 UpStream Link Down
+EM01_Alarms.Path_UpStream_Link_Down[3]			| Path-3 UpStream Link Down
+EM01_Alarms.Path_UpStream_Link_Down[4]			| Path-4 UpStream Link Down
+EM01_Alarms.Path_UpStream_Link_Down[5]			| Path-5 UpStream Link Down
+EM01_Alarms.Path_UpStream_Link_Down[6]			| Path-6 UpStream Link Down
+EM01_Alarms.Path_UpStream_Link_Down[7]			| Path-7 UpStream Link Down
+EM01_Alarms.Path_UpStream_Link_Down[8]			| Path-8 UpStream Link Down
+EM01_Alarms.Path_UpStream_Link_Down[9]			| Path-9 UpStream Link Down
+EM01_Alarms.Path_UpStream_Link_Down[10]			| Path-10 UpStream Link Down
+EM01_Alarms.Path_DownStream_Link_Down[1]		| Path-1 DownStream Link Down
+EM01_Alarms.Path_DownStream_Link_Down[2]		| Path-2 DownStream Link Down
+EM01_Alarms.Path_DownStream_Link_Down[3]		| Path-3 DownStream Link Down
+EM01_Alarms.Path_DownStream_Link_Down[4]		| Path-4 DownStream Link Down
+EM01_Alarms.Path_DownStream_Link_Down[5]		| Path-5 DownStream Link Down
+EM01_Alarms.Path_DownStream_Link_Down[6]		| Path-6 DownStream Link Down
+EM01_Alarms.Path_DownStream_Link_Down[7]		| Path-7 DownStream Link Down
+EM01_Alarms.Path_DownStream_Link_Down[8]		| Path-8 DownStream Link Down
+EM01_Alarms.Path_DownStream_Link_Down[9]		| Path-9 DownStream Link Down
+EM01_Alarms.Path_DownStream_Link_Down[10]		| Path-10 DownStream Link Down
+EM01_Alarms.Path_Motor[1].Motor_Upstream_Link_Down	| Path: 01 Motor: 	| EM01_Alarms.Path_Motor[1].Motor_Number	| UpStream Link Down
+EM01_Alarms.Path_Motor[1].Motor_Downstream_Link_Down	| Path: 01 Motor: 	| EM01_Alarms.Path_Motor[1].Motor_Number	| DownStream Link Down
+EM01_Alarms.Path_Motor[1].Motor_Fault			| Path: 01 Motor: 	| EM01_Alarms.Path_Motor[1].Motor_Number	| CartePlus_Comms]EM01_Alarms.Path_Motor[1].Fault_Message
+EM01_Alarms.Path_Motor[2].Motor_Upstream_Link_Down	| Path: 02 Motor: 	| EM02_Alarms.Path_Motor[2].Motor_Number	| UpStream Link Down
+EM01_Alarms.Path_Motor[2].Motor_Downstream_Link_Down	| Path: 02 Motor: 	| EM02_Alarms.Path_Motor[2].Motor_Number	| DownStream Link Down
+EM01_Alarms.Path_Motor[2].Motor_Fault			| Path: 02 Motor: 	| EM02_Alarms.Path_Motor[2].Motor_Number	| CartePlus_Comms]EM02_Alarms.Path_Motor[2].Fault_Message
+EM01_Alarms.Path_Motor[3].Motor_Upstream_Link_Down	| Path: 03 Motor: 	| EM03_Alarms.Path_Motor[3].Motor_Number	| UpStream Link Down
+EM01_Alarms.Path_Motor[3].Motor_Downstream_Link_Down	| Path: 03 Motor: 	| EM03_Alarms.Path_Motor[3].Motor_Number	| DownStream Link Down
+EM01_Alarms.Path_Motor[3].Motor_Fault			| Path: 03 Motor: 	| EM03_Alarms.Path_Motor[3].Motor_Number	| CartePlus_Comms]EM03_Alarms.Path_Motor[3].Fault_Message
+EM01_Alarms.Path_Motor[4].Motor_Upstream_Link_Down	| Path: 04 Motor: 	| EM04_Alarms.Path_Motor[4].Motor_Number	| UpStream Link Down
+EM01_Alarms.Path_Motor[4].Motor_Downstream_Link_Down	| Path: 04 Motor: 	| EM04_Alarms.Path_Motor[4].Motor_Number	| DownStream Link Down
+EM01_Alarms.Path_Motor[4].Motor_Fault			| Path: 04 Motor: 	| EM04_Alarms.Path_Motor[4].Motor_Number	| CartePlus_Comms]EM04_Alarms.Path_Motor[4].Fault_Message
+EM01_Alarms.Path_Motor[5].Motor_Upstream_Link_Down	| Path: 05 Motor: 	| EM05_Alarms.Path_Motor[5].Motor_Number	| UpStream Link Down
+EM01_Alarms.Path_Motor[5].Motor_Downstream_Link_Down	| Path: 05 Motor: 	| EM05_Alarms.Path_Motor[5].Motor_Number	| DownStream Link Down
+EM01_Alarms.Path_Motor[5].Motor_Fault			| Path: 05 Motor: 	| EM05_Alarms.Path_Motor[5].Motor_Number	| CartePlus_Comms]EM05_Alarms.Path_Motor[5].Fault_Message
+EM01_Alarms.Path_Motor[6].Motor_Upstream_Link_Down	| Path: 06 Motor: 	| EM06_Alarms.Path_Motor[6].Motor_Number	| UpStream Link Down
+EM01_Alarms.Path_Motor[6].Motor_Downstream_Link_Down	| Path: 06 Motor: 	| EM06_Alarms.Path_Motor[6].Motor_Number	| DownStream Link Down
+EM01_Alarms.Path_Motor[6].Motor_Fault			| Path: 06 Motor: 	| EM06_Alarms.Path_Motor[6].Motor_Number	| CartePlus_Comms]EM06_Alarms.Path_Motor[6].Fault_Message
+EM01_Alarms.Path_Motor[7].Motor_Upstream_Link_Down	| Path: 07 Motor: 	| EM07_Alarms.Path_Motor[7].Motor_Number	| UpStream Link Down
+EM01_Alarms.Path_Motor[7].Motor_Downstream_Link_Down	| Path: 07 Motor: 	| EM07_Alarms.Path_Motor[7].Motor_Number	| DownStream Link Down
+EM01_Alarms.Path_Motor[7].Motor_Fault			| Path: 07 Motor: 	| EM07_Alarms.Path_Motor[7].Motor_Number	| CartePlus_Comms]EM07_Alarms.Path_Motor[7].Fault_Message
+EM01_Alarms.Path_Motor[8].Motor_Upstream_Link_Down	| Path: 08 Motor: 	| EM08_Alarms.Path_Motor[8].Motor_Number	| UpStream Link Down
+EM01_Alarms.Path_Motor[8].Motor_Downstream_Link_Down	| Path: 08 Motor: 	| EM08_Alarms.Path_Motor[8].Motor_Number	| DownStream Link Down
+EM01_Alarms.Path_Motor[8].Motor_Fault			| Path: 08 Motor: 	| EM08_Alarms.Path_Motor[8].Motor_Number	| CartePlus_Comms]EM08_Alarms.Path_Motor[8].Fault_Message
+EM01_Alarms.Path_Motor[9].Motor_Upstream_Link_Down	| Path: 09 Motor: 	| EM09_Alarms.Path_Motor[9].Motor_Number	| UpStream Link Down
+EM01_Alarms.Path_Motor[9].Motor_Downstream_Link_Down	| Path: 09 Motor: 	| EM09_Alarms.Path_Motor[9].Motor_Number	| DownStream Link Down
+EM01_Alarms.Path_Motor[9].Motor_Fault			| Path: 09 Motor: 	| EM09_Alarms.Path_Motor[9].Motor_Number	| CartePlus_Comms]EM09_Alarms.Path_Motor[9].Fault_Message
+EM01_Alarms.Path_Motor[10].Motor_Upstream_Link_Down	| Path: 010 Motor: 	| EM010_Alarms.Path_Motor[10].Motor_Number	| UpStream Link Down
+EM01_Alarms.Path_Motor[10].Motor_Downstream_Link_Down	| Path: 010 Motor: 	| EM010_Alarms.Path_Motor[10].Motor_Number	| DownStream Link Down
+EM01_Alarms.Path_Motor[10].Motor_Fault			| Path: 010 Motor: 	| EM010_Alarms.Path_Motor[10].Motor_Number	| CartePlus_Comms]EM010_Alarms.Path_Motor[10].Fault_Message
+
+
+
+EM13_Bot_Alarm.X_Axis.Position_limit
+EM13_Bot_Alarm.X_Axis.CCW_limit
+EM13_Bot_Alarm.X_Axis.CW_limit
+EM13_Bot_Alarm.X_Axis.Over_temp
+EM13_Bot_Alarm.X_Axis.Excess_Regen
+EM13_Bot_Alarm.X_Axis.Over_voltage
+EM13_Bot_Alarm.X_Axis.Under_voltage
+EM13_Bot_Alarm.X_Axis.Over_current
+EM13_Bot_Alarm.X_Axis.Open_motor_windings
+EM13_Bot_Alarm.X_Axis.Bad_Encoder
+EM13_Bot_Alarm.X_Axis.Comm_err
+EM13_Bot_Alarm.X_Axis.Bad_Flash
+EM13_Bot_Alarm.X_Axis.No_Move
+EM13_Bot_Alarm.X_Axis.Blank_Q_Segment
+EM13_Bot_Alarm.X_Axis.General_Fault
+EM13_Bot_Alarm.Y_Axis_1.Position_limit
+EM13_Bot_Alarm.Y_Axis_1.CCW_limit
+EM13_Bot_Alarm.Y_Axis_1.CW_limit
+EM13_Bot_Alarm.Y_Axis_1.Over_temp
+EM13_Bot_Alarm.Y_Axis_1.Excess_Regen
+EM13_Bot_Alarm.Y_Axis_1.Over_voltage
+EM13_Bot_Alarm.Y_Axis_1.Under_voltage
+EM13_Bot_Alarm.Y_Axis_1.Over_current
+EM13_Bot_Alarm.Y_Axis_1.Open_motor_windings
+EM13_Bot_Alarm.Y_Axis_1.Bad_Encoder
+EM13_Bot_Alarm.Y_Axis_1.Comm_err
+EM13_Bot_Alarm.Y_Axis_1.Bad_Flash
+EM13_Bot_Alarm.Y_Axis_1.No_Move
+EM13_Bot_Alarm.Y_Axis_1.Blank_Q_Segment
+EM13_Bot_Alarm.Y_Axis_1.General_Fault
+EM13_Bot_Alarm.Y_Axis_2.Position_limit
+EM13_Bot_Alarm.Y_Axis_2.CCW_limit
+EM13_Bot_Alarm.Y_Axis_2.CW_limit
+EM13_Bot_Alarm.Y_Axis_2.Over_temp
+EM13_Bot_Alarm.Y_Axis_2.Excess_Regen
+EM13_Bot_Alarm.Y_Axis_2.Over_voltage
+EM13_Bot_Alarm.Y_Axis_2.Under_voltage
+EM13_Bot_Alarm.Y_Axis_2.Over_current
+EM13_Bot_Alarm.Y_Axis_2.Open_motor_windings
+EM13_Bot_Alarm.Y_Axis_2.Bad_Encoder
+EM13_Bot_Alarm.Y_Axis_2.Comm_err
+EM13_Bot_Alarm.Y_Axis_2.Bad_Flash
+EM13_Bot_Alarm.Y_Axis_2.No_Move
+EM13_Bot_Alarm.Y_Axis_2.Blank_Q_Segment
+EM13_Bot_Alarm.Y_Axis_2.General_Fault
+EM13_Bot_Alarm.Z_Axis.Position_limit
+EM13_Bot_Alarm.Z_Axis.CCW_limit
+EM13_Bot_Alarm.Z_Axis.CW_limit
+EM13_Bot_Alarm.Z_Axis.Over_temp
+EM13_Bot_Alarm.Z_Axis.Excess_Regen
+EM13_Bot_Alarm.Z_Axis.Over_voltage
+EM13_Bot_Alarm.Z_Axis.Under_voltage
+EM13_Bot_Alarm.Z_Axis.Over_current
+EM13_Bot_Alarm.Z_Axis.Open_motor_windings
+EM13_Bot_Alarm.Z_Axis.Bad_Encoder
+EM13_Bot_Alarm.Z_Axis.Comm_err
+EM13_Bot_Alarm.Z_Axis.Bad_Flash
+EM13_Bot_Alarm.Z_Axis.No_Move
+EM13_Bot_Alarm.Z_Axis.Blank_Q_Segment
+EM13_Bot_Alarm.Z_Axis.General_Fault
+EM13_Bot_Alarm.Auto_Sequence_fault
+EM13_Bot_Alarm.X_axis.Belt_Slip
+EM13_Bot_Alarm.Y_axis_1.Belt_Slip
+EM13_Bot_Alarm.Y_axis_2.Belt_Slip
+EM13_Bot_Alarm.Z_axis.Belt_Slip
+
+
+EM20_Sequence_Alarm.Astar_Timeout
+EM20_Sequence_Alarm.Retrieve_Response_From_ForkBot_TimedOut
+EM20_Sequence_Alarm.Store_Response_From_ForkBot_TimedOut
+EM20_Sequence_Alarm.Obstructed_For_Long_Time
+EM20_Sequence_Alarm.ASRS_Sequence_Fault_Check_PLC
+
+
+EM21_Sequence_Alarm.Astar_Timeout
+EM21_Sequence_Alarm.Retrieve_Response_From_ForkBot_TimedOut
+EM21_Sequence_Alarm.Store_Response_From_ForkBot_TimedOut
+EM21_Sequence_Alarm.Obstructed_For_Long_Time
+EM21_Sequence_Alarm.ASRS_Sequence_Fault_Check_PLC
+
+
+EM22_Sequence_Alarm.Astar_Timeout
+EM22_Sequence_Alarm.Retrieve_Response_From_ForkBot_TimedOut
+EM22_Sequence_Alarm.Store_Response_From_ForkBot_TimedOut
+EM22_Sequence_Alarm.Obstructed_For_Long_Time
+EM22_Sequence_Alarm.ASRS_Sequence_Fault_Check_PLC
+
+
+EM23_Sequence_Alarm.Astar_Timeout
+EM23_Sequence_Alarm.Retrieve_Response_From_ForkBot_TimedOut
+EM23_Sequence_Alarm.Store_Response_From_ForkBot_TimedOut
+EM23_Sequence_Alarm.Obstructed_For_Long_Time
+EM23_Sequence_Alarm.ASRS_Sequence_Fault_Check_PLC
+
+
+EM10_Bot_Alarm.X_axis.Message_Fault
+EM10_Bot_Alarm.X_axis.Torque_Limit
+EM10_Bot_Alarm.Y_axis_1.Message_Fault
+EM10_Bot_Alarm.Y_axis_1.Torque_Limit
+EM10_Bot_Alarm.Y_axis_2.Message_Fault
+EM10_Bot_Alarm.Y_axis_2.Torque_Limit
+EM10_Bot_Alarm.Z_axis.Message_Fault
+EM10_Bot_Alarm.Z_axis.Torque_Limit
+EM10_Bot_Alarm.Auto_Home_Flt
+EM10_Bot_Alarm.PLC_Comms_Flt | EM10 PLC_Comms_Flt Bot Alarms
+EM10_Bot_Alarm.Y_axis_Message_Flt
+
+
+EM11_Bot_Alarm.Auto_Home_Flt
+EM11_Bot_Alarm.PLC_Comms_Flt | Alfha PLC Communication Fault
+EM11_Bot_Alarm.Y_axis_Message_Flt
+EM11_Bot_Alarm.X_axis.Message_Fault
+EM11_Bot_Alarm.X_axis.Torque_Limit
+EM11_Bot_Alarm.Y_axis_1.Message_Fault
+EM11_Bot_Alarm.Y_axis_1.Torque_Limit
+EM11_Bot_Alarm.Y_axis_2.Message_Fault
+EM11_Bot_Alarm.Y_axis_2.Torque_Limit
+EM11_Bot_Alarm.Z_axis.Message_Fault
+EM11_Bot_Alarm.Z_axis.Torque_Limit
+
+
+EM12_Bot_Alarm.Auto_Home_Flt
+EM12_Bot_Alarm.PLC_Comms_Flt
+EM12_Bot_Alarm.Y_axis_Message_Flt
+EM12_Bot_Alarm.X_axis.Message_Fault
+EM12_Bot_Alarm.X_axis.Torque_Limit
+EM12_Bot_Alarm.Y_axis_1.Message_Fault
+EM12_Bot_Alarm.Y_axis_1.Torque_Limit
+EM12_Bot_Alarm.Y_axis_2.Message_Fault
+EM12_Bot_Alarm.Y_axis_2.Torque_Limit
+EM12_Bot_Alarm.Z_axis.Message_Fault
+EM12_Bot_Alarm.Z_axis.Torque_Limit
+
+
+EM13_Bot_Alarm.Auto_Home_Flt
+EM13_Bot_Alarm.PLC_Comms_Flt
+EM13_Bot_Alarm.Y_axis_Message_Flt
+EM13_Bot_Alarm.X_axis.Message_Fault
+EM13_Bot_Alarm.X_axis.Torque_Limit
+EM13_Bot_Alarm.Y_axis_1.Message_Fault
+EM13_Bot_Alarm.Y_axis_1.Torque_Limit
+EM13_Bot_Alarm.Y_axis_2.Message_Fault
+EM13_Bot_Alarm.Y_axis_2.Torque_Limit
+EM13_Bot_Alarm.Z_axis.Message_Fault
+EM13_Bot_Alarm.Z_axis.Torque_Limit
+
+
+A_HMI_comms_fault 										| HMI comms Fault
+A_mode_fault 											| Mode Fault
+Control_off
+Push_Button.Line_emergency_stop_1 								| Line_emergency_stop_1
+Push_Button.Line_emergency_stop_2 								| Line_emergency_stop_2
+Push_Button.Line_emergency_stop_3 								| Line_emergency_stop_3
+Push_Button.Line_emergency_stop_4 								| Line_emergency_stop_4
+Push_Button.Emergency_Stop
+
+
+EM02_Alarms.Lift_down_end_limit_reached
+
+EM02_Alarms.Lift_up_end_limit_reached
+EM03_Alarms.Lift_down_end_limit_reached
+EM03_Alarms.Lift_up_end_limit_reached
+EM02_Alarms.Indexer_Command_Failed
+EM02_Alarms.Lift_Command_Failed
+EM03_Alarms.Indexer_Command_Failed
+EM03_Alarms.Lift_Command_Failed
+
+
+A_RHS_RIO_fault 									| A_RHS_RIO_fault
+A_LHS_RIO_fault 									| A_LHS_RIO_fault
+A_Barcode_scan_flt 									| Barcode scan Fault 
