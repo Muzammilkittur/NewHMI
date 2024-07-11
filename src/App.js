@@ -18,6 +18,7 @@ function App() {
         <Route path="/diagnosticspage" component={Diagnosticspage} />
         <Route path="/alarmspage" component={AlarmsPage} />
         <Route path="/settingspage" component={SettingsPage} />
+        {/*  */}
       </Switch>
     </Router>
   );
