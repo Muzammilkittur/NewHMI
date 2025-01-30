@@ -73,6 +73,7 @@ const BotTable = ({ selectedBot }) => {
           ))}
         </TableBody>
       </Table>
+      <h></h>
     </TableContainer>
   );
 };
